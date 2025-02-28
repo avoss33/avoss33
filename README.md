@@ -1,5 +1,5 @@
 <h1>Hi, I'm Andrew! <br/><a href="https://github.com/avoss33">Cybersecurity Professional</a>, 
-<a href="https://www.linkedin.com/in/andrew-voss-b56a05136/">LinkedIn</a>, 
+<a href="https://www.linkedin.com/in/andrew-voss-b56a05136/">LinkedIn</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
