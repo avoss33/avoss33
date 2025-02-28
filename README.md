@@ -1,5 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/avoss33">Cybersecurity Professional</a>, 
-<a href="https://www.linkedin.com/in/andrew-voss-b56a05136/">LinkedIn</a>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/avoss33">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -14,16 +13,14 @@
 
 <h2>📖 Certifications </h2>
 
-- [WashU Cybersecurity Certificate] (linktocertpicture)
-- [Security+] (linktocertpicture)
-- [Network+] (linktocertpicture)
-- [A+] (linktocertpicture)
+- <a href="https://drive.google.com/file/d/14Uq6geJVYj6EJ7P-6sUNYYSkGGecoKN1/view?usp=sharing">Washington University St. Louis Cybersecurity Certificate</a>
+- <a href="https://drive.google.com/file/d/1V233RPlAWJE-bGhmzvSgsFC-Dkj8Ykci/view?usp=sharing">Security+</a>
+- <a href="https://drive.google.com/file/d/1fntGJz4a9NpvHQyY5MLhaJ6dSfpRq-IG/view?usp=sharing">Network+</a>
+- <a href="https://drive.google.com/file/d/1ZxPAs_fr_sALicF9H4JvI26ZUtTzcGeh/view?usp=sharing">A+</a>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AndrewVoss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/andrew-voss-b56a05136/
+<a href="https://www.linkedin.com/in/andrew-voss-b56a05136/">LinkedIn</a>
 
 <!--
 **avoss33/avoss33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
