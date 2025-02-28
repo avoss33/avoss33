@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Designed a Splunk Security Monitoring Environment](githublinkhere)
+  - [Designing a Splunk Security Monitoring Environment](githublinkhere)
   - [Simulated Cyber Investigation with Azure Data Explorer](githublinkhere)
   - [Network Traffic Analysis with Wireshark](githublinkhere)
 
