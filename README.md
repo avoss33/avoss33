@@ -14,8 +14,7 @@
 
 -<b>Python Password Checker</b>
   - [Python Password Checker](githublinkhere)
--<b>Cybersecurity Blog<b/>
-  - <a href="andrewvosscyber-fafjgybgfkc2gaf9.australiaeast-01.azurewebsites.net">Interesting Cyber Topics</a>
+-<b><a href="andrewvosscyber-fafjgybgfkc2gaf9.australiaeast-01.azurewebsites.net">Personal Cybersecurity Blog</a>
 
 <h2>📖 Certifications </h2>
 
