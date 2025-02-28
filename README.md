@@ -1,27 +1,25 @@
 <h1>Hi, I'm Andrew! <br/><a href="https://github.com/avoss33">Cybersecurity Professional</a>, 
 <a href="https://www.linkedin.com/in/andrew-voss-b56a05136/">LinkedIn</a>, 
-<a href="andrewvosscyber-fafjgybgfkc2gaf9.australiaeast-01.azurewebsites.net">Cybersecurity Blog</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Vulnerability Assessment</b>
-  - [Network Vulnerability Assessment](githublinkhere)
-- <b>Home SIEM Lab Utilizing Elastic Stack</b>
-  - [SIEM Creation and Configuration](githublinkhere)
-- <b>Azure Cloud Management</b>
-  - [Develop Fully Arranged Azure Environment](githublinkhere)
-- <b>Linux Server Implementation</b>
-  - [Linux Home Media Server](githublinkhere)
-- <b>Active Directory Home Lab</b>
-  - [Configure Domain Controller with Group Policy Rules and File Sharing Capabilities](githublinkhere)
+- <b>Designing a Splunk Security Monitoring Environment</b>
+  - [Designed a Splunk Security Monitoring Environment](githublinkhere)
+- <b>Simulated Cyber Investigation with Azure Data Explorer</b>
+  - [Simulated Cyber Investigation with Azure Data Explorer](githublinkhere)
+- <b>Network Traffic Analysis with Wireshark</b>
+  - [Network Traffic Analysis with Wireshark](githublinkhere)
 
 <h2>💻 Programming </h2>
 
--<b>Password Evaluator (Python)</b>
-  - [Evaluate Strength of Password Using Python](githublinkhere)
+-<b>Python Password Checker</b>
+  - [Python Password Checker](githublinkhere)
+-<b>Cybersecurity Blog<b/>
+  - <a href="andrewvosscyber-fafjgybgfkc2gaf9.australiaeast-01.azurewebsites.net">Interesting Cyber Topics</a>
 
 <h2>📖 Certifications </h2>
 
+- [WashU Cybersecurity Certificate] (linktocertpicture)
 - [Security+] (linktocertpicture)
 - [Network+] (linktocertpicture)
 - [A+] (linktocertpicture)
